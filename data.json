@@ -1,1 +1,5 @@
-[{"city": "Dnipro", "street": "Polya", "building": 123}, 1, 2, 3]
+[
+  {"name":  "John", "age":  37, "city": "New York", "zip":  "29000POI"},
+  {"name":  "Anna", "age":  27, "city": "Dnipro", "zip":  "AZE4900"},
+  {"name":  "Jacob", "age":  43, "city": "London", "zip":  "XX1000DD"}
+]
